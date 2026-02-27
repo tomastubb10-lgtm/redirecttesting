@@ -1,0 +1,2 @@
+# redirecttesting
+testig some functionality
